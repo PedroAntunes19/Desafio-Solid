@@ -1,0 +1,4 @@
+C:\Users\pedro\OneDrive\Desktop\Principios SOLID\LSP\Adequacao\obj\Debug\net9.0\Adequacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Desktop\Principios SOLID\LSP\Adequacao\obj\Debug\net9.0\Adequacao.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Desktop\Principios SOLID\LSP\Adequacao\obj\Debug\net9.0\Adequacao.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Desktop\Principios SOLID\LSP\Adequacao\obj\Debug\net9.0\Adequacao.csproj.CoreCompileInputs.cache

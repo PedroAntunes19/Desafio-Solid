@@ -1,0 +1,4 @@
+C:\Users\pedro\OneDrive\Desktop\Principios SOLID\SRP\Violacao\obj\Debug\net9.0\Violacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Desktop\Principios SOLID\SRP\Violacao\obj\Debug\net9.0\Violacao.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Desktop\Principios SOLID\SRP\Violacao\obj\Debug\net9.0\Violacao.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Desktop\Principios SOLID\SRP\Violacao\obj\Debug\net9.0\Violacao.csproj.CoreCompileInputs.cache
